@@ -1,4 +1,4 @@
-# All documents in this rpeository are currently in draft
+# All documents in this repository are currently in draft
 
 # Minimum Viable Governance
 
