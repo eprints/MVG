@@ -1,3 +1,5 @@
+# All documents in this rpeository are currently in draft
+
 # Minimum Viable Governance
 
 ## What is Minimum Viable Governance?
