@@ -5,7 +5,7 @@ This document lists the Maintainers of the Project. Maintainers may be added onc
 | **NAME** | **ORCID** | **Organization** | **ROR** |
 | --- | --- | --- | --- |
 | David R Newman | https://orcid.org/0000-0001-5153-5396 | EPrints Services, Univeristy of Southampton | https://ror.org/01ryk1543 |
-| Maintainer 2 |  |
+| John Salter | https://orcid.org/0000-0002-8611-8266 | White Rose University Consortium | https://ror.org/0251f2x81 |
 
 ---
 Part of MVG-0.1-beta.
