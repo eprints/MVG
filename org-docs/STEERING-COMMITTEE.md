@@ -6,6 +6,7 @@ This document lists the members of the Organization's Steering Committee. Voting
 | --- | --- | --- | --- | --- |
 | Rory McNicholl | @cziaarm | https://orcid.org/0000-0001-7918-6597 | CoSector, University of London | https://ror.org/04cw6st05 |
 | Prof. Justin Bradley | @jb4 | https://orcid.org/0000-0002-3639-6962 | EPrints Services, University of Southampton |  https://ror.org/01ryk1543 |
+| George MacGregor |  | https://orcid.org/0000-0002-8482-3973 | University of Glasgow |  https://ror.org/00vtgdb53 |
 
 ---
 Part of MVG-0.1-beta.
