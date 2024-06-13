@@ -6,6 +6,7 @@ This document lists the Maintainers of the Project. Maintainers may be added onc
 | --- | --- | --- | --- |
 | David R Newman | https://orcid.org/0000-0001-5153-5396 | EPrints Services, Univeristy of Southampton | https://ror.org/01ryk1543 |
 | Will Fyson | https://orcid.org/0000-0002-7227-8293 | CoSector, University of London | https://ror.org/04cw6st05 |
+| John Salter | https://orcid.org/0000-0002-8611-8266 | White Rose University Consortium | https://ror.org/0251f2x81 |
 
 ---
 Part of MVG-0.1-beta.
