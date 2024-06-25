@@ -8,6 +8,7 @@ This document lists the members of the Organization's Steering Committee. Voting
 | Prof. Justin Bradley | @jb4 | https://orcid.org/0000-0002-3639-6962 | EPrints Services, University of Southampton |  https://ror.org/01ryk1543 |
 | George MacGregor |  | https://orcid.org/0000-0002-8482-3973 | University of Glasgow |  https://ror.org/00vtgdb53 |
 | Tomasz Neugebauer | @photomedia | https://orcid.org/0000-0002-9743-5910 | Concordia University | https://ror.org/0420zvk78 |
+| John Salter | @jesusbagpuss | https://orcid.org/0000-0002-8611-8266 | White Rose Libraries / University of Leeds | https://ror.org/024mrxd33 |
 
 ---
 Part of MVG-0.1-beta.
