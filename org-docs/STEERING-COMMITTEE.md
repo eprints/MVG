@@ -9,6 +9,7 @@ This document lists the members of the Organization's Steering Committee. Voting
 | George MacGregor |  | https://orcid.org/0000-0002-8482-3973 | University of Glasgow |  https://ror.org/00vtgdb53 |
 | Tomasz Neugebauer | @photomedia | https://orcid.org/0000-0002-9743-5910 | Concordia University | https://ror.org/0420zvk78 |
 | Kate Petherbridge |  | https://orcid.org/0009-0000-5880-5053 | White Rose Libraries |  |
+| John Salter | @jesusbagpuss | https://orcid.org/0000-0002-8611-8266 | White Rose Libraries / University of Leeds | https://ror.org/024mrxd33 |
 
 ---
 Part of MVG-0.1-beta.
