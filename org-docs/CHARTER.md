@@ -4,7 +4,7 @@ This is the organisational charter for the EPrints Organisation (the "Organisati
 
 ## 1. Mission
 
-Promote and guide the continued development of the EPrints platform in providing excellence, control and flexibility for the dissemination of all research outputs.
+Promote and guide the continued development of the EPrints platform in providing excellence, control, and flexibility for the dissemination of all research outputs.
 
 ## 2. Steering Committee
 
