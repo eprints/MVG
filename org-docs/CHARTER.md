@@ -1,6 +1,6 @@
-# Charter for the EPrints Organization
+# Charter for the EPrints Organisation
 
-This is the organizational charter for the EPrints Organization (the "Organization"). By adding their name to the [Steering Committee.md file](./STEERING-COMMITTEE.md), Steering Committee members agree as follows.
+This is the organisational charter for the EPrints Organisation (the "Organisation"). By adding their name to the [Steering Committee.md file](./STEERING-COMMITTEE.md), Steering Committee members agree as follows.
 
 ## 1. Mission
 
@@ -8,7 +8,7 @@ Promote and guide the continued development of the EPrints platform in providing
 
 ## 2. Steering Committee
 
-**2.1 Purpose**. The Steering Committee will be responsible for all technical oversight, project approval and oversight, policy oversight, and trademark management for the Organization.
+**2.1 Purpose**. The Steering Committee will be responsible for all technical oversight, project approval and oversight, policy oversight, and trademark management for the Organisation.
 
 **2.2 Composition**. The Steering Committee voting members are listed in the steering-committee.md file in the repository.
 Voting members may be added or removed by no less than 3/4 affirmative vote of the Steering Committee.
@@ -30,19 +30,19 @@ In addition to the method set out in section 2.2, the membership of a Steering C
 
 ## 5. Trademarks
 
-Any names, trademarks, service marks, logos, mascots, or similar indicators of source or origin and the goodwill associated with them arising out of the Organization's activities or Organization projects' activities (the "Marks"), are controlled by the Organization. Steering Committee members may only use the Marks in accordance with the Organization's [trademark policy](./TRADEMARKS.md). If a Steering Committee member is terminated or removed from the Steering Committee, any rights the Steering Committee member may have in the Marks revert to the Organization.
+Any names, trademarks, service marks, logos, mascots, or similar indicators of source or origin and the goodwill associated with them arising out of the Organisation's activities or Organisation projects' activities (the "Marks"), are controlled by the Organisation. Steering Committee members may only use the Marks in accordance with the Organisation's [trademark policy](./TRADEMARKS.md). If a Steering Committee member is terminated or removed from the Steering Committee, any rights the Steering Committee member may have in the Marks revert to the Organisation.
 
 ## 6. Antitrust Policy
 
-The Steering Committee is bound by the Organization's [antitrust policy](./ANTITRUST.md).
+The Steering Committee is bound by the Organisation's [antitrust policy](./ANTITRUST.md).
 
 ## 7. No Confidentiality
 
-Information disclosed in connection with any of the Organization's activities, including but not limited to meetings, Contributions, and submissions, is not confidential, regardless of any markings or statements to the contrary.
+Information disclosed in connection with any of the Organisation's activities, including but not limited to meetings, Contributions, and submissions, is not confidential, regardless of any markings or statements to the contrary.
 
 ## 8. Project Criteria
 
-In order to be eligible to be a Organization project, a project must:
+In order to be eligible to be a Organisation project, a project must:
 
 * Be approved by the Steering Committee.
 * Agree to follow the guidance and direction of the Steering Committee.
@@ -50,7 +50,7 @@ In order to be eligible to be a Organization project, a project must:
   - For code, a license on the Open Source Initiative's list of [Popular Licenses](https://opensource.org/licenses).
   - For data, a license on the Open Knowledge Foundation's list of [Recommended Conformant Licenses](http://opendefinition.org/licenses/).
   - For specifications, a community developed and maintained specification agreement, such the [Open Web Foundation Agreements](https://www.openwebfoundation.org/the-agreements) or [Community Specification Agreement](https://github.com/CommunitySpecification/1.0).
-* Include and adhere to the Organization's policies, including the [trademark policy](./TRADEMARKS.md), the [antitrust policy](./ANTITRUST.md), and the [code of conduct](./CODE-OF-CONDUCT.md).
+* Include and adhere to the Organisation's policies, including the [trademark policy](./TRADEMARKS.md), the [antitrust policy](./ANTITRUST.md), and the [code of conduct](./CODE-OF-CONDUCT.md).
 
 ## 9. Amendments
 
