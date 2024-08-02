@@ -42,7 +42,7 @@ Information disclosed in connection with any of the Organisation's activities, i
 
 ## 8. Project Criteria
 
-In order to be eligible to be a Organisation project, a project must:
+In order to be eligible an Organisation project must:
 
 * Be approved by the Steering Committee.
 * Agree to follow the guidance and direction of the Steering Committee.
