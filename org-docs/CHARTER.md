@@ -1,10 +1,10 @@
-# Charter for the [FIXME] Organization
+# Charter for the EPrints Organization
 
-This is the organizational charter for the [FIXME] Organization (the "Organization"). By adding their name to the [Steering Committee.md file](./STEERING-COMMITTEE.md), Steering Committee members agree as follows.
+This is the organizational charter for the EPrints Organization (the "Organization"). By adding their name to the [Steering Committee.md file](./STEERING-COMMITTEE.md), Steering Committee members agree as follows.
 
 ## 1. Mission
 
-[Set out mission of the Organization].
+Promote and guide the continued development of the EPrints platform in providing excellence, control and flexibility for the dissemination of all research outputs.
 
 ## 2. Steering Committee
 
