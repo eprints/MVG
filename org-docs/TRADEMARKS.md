@@ -35,10 +35,10 @@ However, you may use our Marks for the distribution of code (source or executabl
 
 You may use the word Marks, but not the Organization's logos, to truthfully describe the relationship between your software and ours. Our Mark should be used after a verb or preposition that describes the relationship between your software and ours. So you may say, for example, "Bob's software for the 'Mark' platform" but may not say "Bob's 'Mark' software." Some other examples that may work for you are:
 
-* EPrints uses "Mark" software
-* EPrints is powered by "Mark" software
-* EPrints runs on "Mark" software
-* EPrints for use with "Mark" software
-* EPrints for Mark software
+* [Your software] uses "Mark" software
+* [Your software] is powered by "Mark" software
+* [Your software] runs on "Mark" software
+* [Your software] for use with "Mark" software
+* [Your software] for Mark software
 
 These guidelines are based on the [Model Trademark Guidelines](http://www.modeltrademarkguidelines.org), used under a [Creative Commons Attribution 3.0 Unported license](https://creativecommons.org/licenses/by/3.0/deed.en_US)
