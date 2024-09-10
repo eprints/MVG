@@ -1,12 +1,12 @@
 ## Introduction
 
-This is the Organization's policy for the use of our trademarks. While our work is available under free and open source software licenses, those licenses do not include a license to use our trademarks.
+This is the Eprints Organization's policy for the use of our trademarks. While our work is available under free and open source software licenses, those licenses do not include a license to use our trademarks.
 
 This policy describes how you may use our trademarks.  Our goal is to strike a balance between: 1) our need to ensure that our trademarks remain reliable indicators of the quality software we release; and 2) our community members' desire to be full participants in our Organization.
 
 ## Our Trademarks
 
-This policy covers the name of the Organization and each of the Organization's projects, as well as any associated names, trademarks, service marks, logos, mascots, or similar indicators of source or origin (our "Marks").
+This policy covers the name of the Eprints Organization and each of the Organization's projects, as well as any associated names, trademarks, service marks, logos, mascots, or similar indicators of source or origin (our "Marks").
 
 ## In General
 
