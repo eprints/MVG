@@ -59,8 +59,15 @@ representative at an online or offline event.
 ## Enforcement
 
 Instances of abusive, harassing, or otherwise unacceptable behavior may be
-reported to the community leaders responsible for enforcement at: EPrints Organization Steering Committee
-[INSERT email address of SG - TO DO].
+reported to the community leaders responsible for enforcement. These leaders currently comprise members of the EPrints Organization Steering Committee. Complaints can be raised with any of the following members:
+
+* [Justin Bradley](mailto:justin@soton.ac.uk)
+* [George Macgregor (Interim Steering Group Chair)](mailto:george.macgregor@glasgow.ac.uk)
+* [Rory McNicholl](mailto:rory.mcnicholl@london.ac.uk)
+* [Tomasz Neugebauer](mailto:tomasz.neugebauer@concordia.ca)
+* [Kate Petherbridge](mailto:kate.petherbridge@york.ac.uk)
+* [John Salter](mailto:j.salter@leeds.ac.uk)
+
 All complaints will be reviewed and investigated promptly and fairly.
 
 All community leaders are obligated to respect the privacy and security of the
